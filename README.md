@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋, I am Eric!
+ 
+**Software Engineer** who enjoys sharing knowledge, helping people, and contributing to open-source projects.
 
-<!--
-**tericcabrel/tericcabrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📘 Read my blog about the backend: [blog.tericcabrel.com](https://blog.tericcabrel.com)
 
-Here are some ideas to get you started:
+✉️ Subscribe to my newsletter: [newsletter.tericcabrel.com](https://newsletter.tericcabrel.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Check my website: [tericcabrel.com](https://tericcabrel.com)
+
+✍️ Write me an email: [contact@tericcabrel.com](mailto:contact@tericcabrel.com)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/tericcabrel?label=Follow)](https://twitter.com/tericcabrel)
+
+### Projects I'm working on
+
+* 👨‍👩‍👧‍👦 Open Source Community by Cameroonian developers: [osscameroon.com](https://osscameroon.com)
+* 🗺️ API to browse programming languages: [prolanghistory.com](https://prolanghistory.com)
+* 📈 Find resources to grow your tech career: [techcareergrowth.co](https://techcareergrowth.co)
+
+### My Tech stack
+* Frontend: `React`, `Next.js`
+* Backend:  `Typescript`, `Node.js`, `GraphQL`, `Java`, `SpringBoot`
+* Cloud: `AWS` and `Digital Ocean`
+* CI/CD: `GitHub Actions` and `GitLab`
+* Others: `Docker`, `MongoDB`, `MySQL`
