@@ -8,12 +8,13 @@
 
 🌐 Check my website: [tericcabrel.com](https://tericcabrel.com)
 
-✍️ Write me an email: [contact@tericcabrel.com](mailto:contact@tericcabrel.com)
+✍️ Write me an email: [tericcabrel@yahoo.com](mailto:contact@tericcabrel.com)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tericcabrel?label=Follow)](https://twitter.com/tericcabrel)
 
 ### Projects I'm working on
 
+* 👨🏼‍💻 Contributor and mentor at [@osscameroon](https://github.com/osscameroon)
 * 👨‍👩‍👧‍👦 Open Source Community by Cameroonian developers: [osscameroon.com](https://osscameroon.com)
 * 🗺️ API to browse programming languages: [prolanghistory.com](https://prolanghistory.com)
 * 📈 Find resources to grow your tech career: [techcareergrowth.co](https://techcareergrowth.co)
