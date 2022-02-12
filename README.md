@@ -15,9 +15,9 @@
 ### Projects I'm working on
 
 * 👨🏼‍💻 Contributor and mentor at [@osscameroon](https://github.com/osscameroon)
-* 👨‍👩‍👧‍👦 Open Source Community by Cameroonian developers: [osscameroon.com](https://osscameroon.com)
-* 🗺️ API to browse programming languages: [prolanghistory.com](https://prolanghistory.com)
-* 📈 Find resources to grow your tech career: [techcareergrowth.co](https://techcareergrowth.co)
+* 👨‍👩‍👧‍👦 Open Source Community by Cameroonian developers: [osscameroon.com](https://osscameroon.com) - [source code](https://github.com/osscameroon/osscameroon-website)
+* 🗺️ API to browse programming languages: [prolanghistory.com](https://prolanghistory.com) - [source code](https://github.com/osscameroon/prolang-api)
+* 📈 Find resources to grow your tech career: [techcareergrowth.co](https://techcareergrowth.co) - [source code](https://github.com/tericcabrel/tech-career-growth)
 
 ### My Tech stack
 * Frontend: `React`, `Next.js`
