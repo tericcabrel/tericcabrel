@@ -6,7 +6,7 @@
 
 ✉️ Subscribe to my newsletter: [newsletter.tericcabrel.com](https://newsletter.tericcabrel.com)
 
-🌐 Check my website: [tericcabrel.com](https://tericcabrel.com)
+🌐 Check out my website: [tericcabrel.com](https://tericcabrel.com)
 
 ✍️ Write me an email: [tericcabrel@yahoo.com](mailto:contact@tericcabrel.com)
 
