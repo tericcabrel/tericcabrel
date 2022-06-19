@@ -15,13 +15,14 @@
 ### Projects I'm working on
 
 * 👨🏼‍💻 Contributor and mentor at [@osscameroon](https://github.com/osscameroon)
+* 📈 Create, manage and share your code snippets: [sharingan.dev](https://sharingan.dev) - [source code](https://github.com/tericcabrel/sharingan)
 * 👨‍👩‍👧‍👦 Open Source Community by Cameroonian developers: [osscameroon.com](https://osscameroon.com) - [source code](https://github.com/osscameroon/osscameroon-website)
 * 🗺️ API to browse programming languages: [prolanghistory.com](https://prolanghistory.com) - [source code](https://github.com/osscameroon/prolang-api)
 * 📈 Find resources to grow your tech career: [techcareergrowth.co](https://techcareergrowth.co) - [source code](https://github.com/tericcabrel/tech-career-growth)
 
 ### My Tech stack
 * Frontend: `React`, `Next.js`
-* Backend:  `Typescript`, `Node.js`, `GraphQL`, `Java`, `SpringBoot`
+* Backend:  `Typescript`, `Node.js`, `GraphQL`, `Java`, `Spring Boot`
 * Cloud: `AWS` and `Digital Ocean`
 * CI/CD: `GitHub Actions` and `GitLab`
 * Others: `Docker`, `MongoDB`, `MySQL`
