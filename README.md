@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Eric!
  
-**Software Engineer** who enjoys sharing knowledge, helping people, and contributing to open-source projects.
+A **Software Engineer** interested in Backend, DX, Observability, DevOps, and Infrastructure as Code.
 
 📘 Read my blog about the backend: [blog.tericcabrel.com](https://blog.tericcabrel.com)
 
@@ -25,12 +25,12 @@
 * 📈 Find resources to grow your tech career: [techcareergrowth.co](https://techcareergrowth.co) - [source code](https://github.com/tericcabrel/tech-career-growth)
 
 ### My Tech stack
-* Frontend: `React`, `Next.js`
+* Backend:  `Typescript` - `Node.js` - `GraphQL` - `Java` - `Spring Boot`
 
-* Backend:  `Typescript`, `Node.js`, `GraphQL`, `Java`, `Spring Boot`
+* Frontend: `React` - `Next.js`
 
-* Cloud: `AWS` and `Digital Ocean`
+* Cloud: `AWS` - `Digital Ocean`
 
-* CI/CD: `GitHub Actions` and `GitLab`
+* CI/CD: `GitHub Actions` - `GitLab CI`
 
-* Others: `Docker`, `MongoDB`, `MySQL`
+* Others: `Docker` - `MongoDB` - `MySQL` - `Serverless`
