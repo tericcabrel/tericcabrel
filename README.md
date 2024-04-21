@@ -8,7 +8,7 @@ A **Software Engineer** interested in Backend, DX, Observability, DevOps, and In
 
 🌐 Check out my website: [tericcabrel.com](https://tericcabrel.com)
 
-✍️ Write me an email: [tericcabrel@yahoo.com](mailto:contact@tericcabrel.com)
+✍️ Write me an email: [tericcabrel@yahoo.com](mailto:contact@tericcabrel.com) 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tericcabrel?label=Follow)](https://twitter.com/tericcabrel)
 
@@ -16,20 +16,18 @@ A **Software Engineer** interested in Backend, DX, Observability, DevOps, and In
 
 * 👨🏼‍💻 Contributor and mentor at [@osscameroon](https://github.com/osscameroon)
 
-* 📝 Create, manage and share your code snippets: [sharingan.dev](https://sharingan.dev) - [source code](https://github.com/tericcabrel/sharingan)
+* 📝 Create, manage and share your code snippets: [snipcode.dev](https://snipcode.dev) - [source code](https://github.com/tericcabrel/snipcode)
 
 * 👨‍👩‍👧‍👦 Open Source Community by Cameroonian developers: [osscameroon.com](https://osscameroon.com) - [source code](https://github.com/osscameroon/osscameroon-website)
 
 * 🗺️ API to browse programming languages: [prolanghistory.com](https://prolanghistory.com) - [source code](https://github.com/osscameroon/prolang-api)
 
-* 📈 Find resources to grow your tech career: [techcareergrowth.co](https://techcareergrowth.co) - [source code](https://github.com/tericcabrel/tech-career-growth)
-
 ### My Tech stack
-* Backend:  `Typescript` - `Node.js` - `GraphQL` - `Java` - `Spring Boot`
+* Backend:  `TypeScript` - `Node.js` - `GraphQL` - `Java` - `Spring Boot`
 
 * Frontend: `React` - `Next.js`
 
-* Cloud: `AWS` - `Digital Ocean`
+* Cloud: `AWS` - `VPS`
 
 * CI/CD: `GitHub Actions` - `GitLab CI`
 
